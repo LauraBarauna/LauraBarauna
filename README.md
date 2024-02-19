@@ -6,7 +6,7 @@ I'm starting this new journey into web development, already familiarizing myself
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
-But I also will learn Java! Wish me luck 🚀✨
+But I also will learn Java! Wish me luck ☕✨
 
 ## Here is what you'll see:
 
