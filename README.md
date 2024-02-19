@@ -1,4 +1,4 @@
-<span style="font-size: 50px;">**Hi there, I'm Laura Barauna👋**</span>
+#Hi there, I'm Laura Barauna👋
 
 <!--
 **LauraBarauna/laurabarauna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
