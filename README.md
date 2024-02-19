@@ -3,6 +3,7 @@
 ## Welcome to my profile! I'm new to this world called coding 👨🏻‍💻
 
 I'm starting this new journey into web development, already familiarizing myself with these technologies:
+
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
  
