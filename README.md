@@ -1,4 +1,7 @@
 # Hi there, I'm Laura Barauna👋
+I'm embarking on an exciting journey into the world of programming, with a particular focus on web development. My passion for technology, cinema, and art is the fuel that drives me forward on this adventure. I firmly believe that creativity is the spark that turns lines of code into captivating experiences.
+
+I'm thrilled to explore how I can weave these eclectic interests into my projects, infusing them with a unique and vibrant touch.
 
 <!--
 **LauraBarauna/laurabarauna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
