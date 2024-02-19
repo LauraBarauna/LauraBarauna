@@ -1,8 +1,11 @@
 # Hi there, I'm Laura Barauna👋
 
-- Welcome to my profile! I'm embarking on an exciting journey into the world of programming, with a particular focus on web development. My passion for technology, cinema, and art is the fuel that drives me forward on this adventure. I firmly believe that creativity is the spark that turns lines of code into captivating experiences.
+## Welcome to my profile! I'm new to this world called coding 👨🏻‍💻
 
-I'm thrilled to explore how I can weave these eclectic interests into my projects, infusing them with a unique and vibrant touch.
+I'm starting this new journey into web development, already familiarizing myself with these technologies.
+!
+[Ícone SVG](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zY3JpcHRzIiB2ZXJzaW9uPSIxLjAiLz48cGF0aCBmaWxsPSIjZjVmNWY1IiBkPSJNMSAzMmwzNC45IDM5NS44LDE5MS41IDQ4MC4xNTE1IDxwYXRoIGZpbGw9Im5vbmUiIHN0cm9rZT0iIzAwMDAwMCIgc3Ryb2tlLXdpZHRoPSIzODQiPjxwYXRoIGZpbGw9IiM1NjE5RkYiIGQ9Ik0wIDMybDM0LjkxMzIgMzk1LjggMTkxLjUgMTU3LjUgMTU3LjYtNTIuMi0xLjJIMDF6bTMwOC4yIDEyNy45SDEyNC40bC00LjMgNDkuNGgtMTAyLjRsNC4xIDQ3LjcgaDI0MS4xbC0xMy42IDE0OC40LTI3LjMgMjctLjMgaC0xLjF6TTMwOCIgYXJpYS1kPSJub25lIi8+PC9wYXRoPjwvc3ZnPg==)
+ 
 
 <!--
 **LauraBarauna/laurabarauna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
