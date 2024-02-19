@@ -1,5 +1,5 @@
 # Hi there, I'm Laura Barauna👋 
-- Pronouns: She/Her
+Pronouns: She/Her
 
 ## Welcome to my profile! I'm new to this world called coding 👨🏻‍💻
 
