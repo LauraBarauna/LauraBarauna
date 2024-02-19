@@ -8,7 +8,7 @@ I'm starting this new journey into web development, already familiarizing myself
 
 But I also will learn Java! Wish me luck 🚀✨
 
-Here is what you'll see:
+## Here is what you'll see:
 
 - 🌱 Initial Projects: I'm sharing some of my first programming projects, where I'm experimenting and learning.
 
