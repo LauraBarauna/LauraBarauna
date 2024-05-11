@@ -8,6 +8,9 @@ I'm starting this new journey into web development, already familiarizing myself
 
 But I also will learn Java! Wish me luck ☕✨
 
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=LauraBarauna&layout=compact&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
 ## Here is what you'll see:
 
 - 🌱 Initial Projects: I'm sharing some of my first programming projects, where I'm experimenting and learning.
