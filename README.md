@@ -5,20 +5,20 @@
 I'm a Computer Science student currently exploring the world of software development — especially Java and web technologies.
 
 ### 🧠 What I'm Learning:
-- 🌱 Java (Object-Oriented Programming, Spring Framework)
-- 🧬 PHP (backend development using XAMPP)
+- 🌱 Java (Spring Framework, Clean Architecture)
+- 🖼️ Angular (Frontend Framework)
 - 🛠️ REST APIs and web development
-- 📦 Databases (MySQL, MongoDB)
+- 📦 Databases (MySQL, MongoDB, PostgresSQL)
 
 ### 🧪 Current Projects
-- **Doce Encomenda** – A RESTful system for managing custom dessert orders.
-- **Controle Financeiro** – A Java app to process financial files (CSV, OFX, Excel), calculate taxes and generate reports.
+- **Ciclo em Dia** – A fullstack project for tracking usage and preventative maintenance for bicycle shops.
+- **SIOUM** – A fullstack project to facilitate the opening and monitoring of municipal urban incidents
 
 ### 🎨 Interests & Goals
 - Gaining experience through **personal projects** and contributing to open-source.
 
 ### 🧰 Tech I'm Using
-[![My Skills](https://skillicons.dev/icons?i=java,spring,js,html,css,mysql,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,angular,ts,js,html,css,mysql,php)](https://skillicons.dev)
 
 ![LauraBarauna's Streak](https://github-readme-streak-stats.herokuapp.com/?user=LauraBarauna&theme=tokyonight&hide_border=true)
 
